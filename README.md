@@ -1,1 +1,3 @@
-# Vigenere Cipher - Thinh Le
+# Vigenere Cipher
+
+Encrypt/decrypt Vigenere cipher in ASM.
